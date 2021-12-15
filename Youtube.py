@@ -12,4 +12,4 @@ for i in link:
         youtube.streams.filter(progressive=True, file_extension='mp4').order_by('resolution')[-1].download(SAVE_PATH)
     except: 
         print("Bağlantı hatası.") 
-print("İndirme tamamlandı.", "(Dosya sayısı:", + len(link), ")")
+print("İndirme tamamlandı.", "(Dosya sayısı:", + len(link),")")

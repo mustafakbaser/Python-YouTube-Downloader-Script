@@ -1,8 +1,5 @@
 # Simple YouTube Video Downloader Script
-This script developed with Python language, and this script was built using [pytube](https://pytube.io/en/latest/).
 
-<h1 align="center">Jukebox | Java Swing, MySQL</h1>
-<p align="center"><i>Java Swing Application</i></p>
 <div align="center">
   <a href="https://github.com/mustafakbaser/Python-YouTube-Downloader-Script/stargazers"><img src="https://img.shields.io/github/stars/mustafakbaser/Python-YouTube-Downloader-Script" alt="Stars Badge"/></a>
 <a href="https://github.com/mustafakbaser/Python-YouTube-Downloader-Script/network/members"><img src="https://img.shields.io/github/forks/mustafakbaser/Python-YouTube-Downloader-Script" alt="Forks Badge"/></a>
@@ -13,7 +10,7 @@ This script developed with Python language, and this script was built using [pyt
 </div>
 <br>
 
-This script developed with Python language, and this script was built using pytube.
+This script developed with Python language, and this script was built using [pytube](https://pytube.io/en/latest/).
 
 If you like this Repo, Please click the :star:
 

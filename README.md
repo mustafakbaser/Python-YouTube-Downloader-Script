@@ -10,9 +10,9 @@
 </div>
 <br>
 
-This script developed with Python language, and this script was built using [pytube](https://pytube.io/en/latest/).
+This script developed with Python language, and this script was built using [pytube](https://pytube.io/en/latest/) library.
 
-If you like this Repo, Please click the :star:
+If you like this Repo, please click the :star:
 
 ## :man_astronaut: Show your support
 
